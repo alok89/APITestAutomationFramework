@@ -1,0 +1,6 @@
+utils\PropertiesReader.class
+resources\NYTimesResourcesURI.class
+requestspecifications\NYTimesRequestSpecifications.class
+resources\TheCatResourcesURI.class
+requestspecifications\GenerateRequestSpecifications.class
+requestspecifications\TheCatRequestSpecifications.class
